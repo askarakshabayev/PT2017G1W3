@@ -1,0 +1,5 @@
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PT2017G1W3\PT2017G1W3\bin\Debug\PT2017G1W3.exe.config
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PT2017G1W3\PT2017G1W3\bin\Debug\PT2017G1W3.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PT2017G1W3\PT2017G1W3\bin\Debug\PT2017G1W3.pdb
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PT2017G1W3\PT2017G1W3\obj\Debug\PT2017G1W3.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PT2017G1W3\PT2017G1W3\obj\Debug\PT2017G1W3.pdb
